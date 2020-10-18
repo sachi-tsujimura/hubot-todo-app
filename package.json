@@ -11,7 +11,7 @@
     "hubot-redis-brain": "^1.0.0",
     "hubot-rules": "^1.0.0",
     "hubot-slack": "^4.8.0",
-    "todo": "../todo"
+    "todo": "todo"
   },
   "engines": {
     "node": "> 8.0.0"
